@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **Java**
 
-- 👨‍💻 My personal site at [https://techit.win/projects](https://techit.win/projects)
+- 👨‍💻 My personal site at [https://techit.win/](https://techit.win/)
 
 - 📝 I write articles on [https://techit.win/posts](https://techit.win/posts)
 
