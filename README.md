@@ -9,7 +9,7 @@
 
 - 👨‍💻 My personal site at [https://techit.win/](https://techit.win/)
 
-- 📝 I write articles on [https://techit.win/posts](https://techit.win/posts)
+- 📝 I write articles on [https://techit.win/blog](https://techit.win/blog)
 
 - 📫 How to reach me **techit[AT]dailitation[DOT]xyz**
 
