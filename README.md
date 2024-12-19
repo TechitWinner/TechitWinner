@@ -1,26 +1,22 @@
-<h1 align="center">Hi 👋, I'm Techit Thawiang</h1>
-<h3 align="center">I can design and code.</h3>
+# Welcome to Techit's GitHub Profile
+This is Techit's personal GitHub profile.  
+I'm a student and a passionate contributor (develop, translate, etc) from Chon Buri, Thailand.  
+Feel free to take a look before you leave me.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techitwinner" alt="techitwinner" /></a> </p>
+## Projects
+- [www](https://giskette.dailitation.xyz/techit/www): My personal website landing page, hosting at [techit.dailitation.xyz](https://techit.dailitation.xyz/).
+- [JzCraft](https://discord.gg/dtDTDHWRf3): an ordinary Minecraft server aiming to build a mini games community. The server is in development stage...
+- [ThaiFixes](https://github.com/TechitWinner/mc-thaifixes): a Minecraft Resource Pack created for fixing ugly, hard-to-read, small Thai font in Minecraft 1.21+.
+- [Paintbrush](https://giskette.dailitation.xyz/techit/paintbrush): A CSS theme inspired by Red Hat's website theme.
 
-- 🔭 I’m currently working on [JzCraft - Minecraft Server](https://jzboy.net/craft)
+## Contact Info
+- E-mail: techit(at)dailitation(dot)xyz
+- Mastodon: @techit@furnu.org
+- Facebook: techitwinner
+- Instagram: @techitwinner
+- TikTok: @techitwinner
+- Bluesky: @techit.dailitation.xyz
 
-- 🌱 I'm currently learning **Java**
-
-- 👨‍💻 My personal site at [https://techit.win/](https://techit.win/)
-
-- 📝 I write articles on [https://techit.win/blog](https://techit.win/blog)
-
-- 📫 How to reach me **techit[AT]dailitation[DOT]xyz**
-
-<h3 align="left">Connect with me @techitwinner on...</h3>
-<p align="left">
-<a href="https://twitter.com/techitwinner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techitwinner" height="30" width="40" /></a>
-<a href="https://fb.com/techitwinner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techitwinner" height="30" width="40" /></a>
-<a href="https://instagram.com/techitwinner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techitwinner" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techitwinner&" alt="techitwinner" /></p>
+Powered by dailitation.xyz  
+© 2024 Techit Thawiang, Some rights reserved.  
+[GPG/PGP Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/32321602C7B57839F6F800434931394BAB824F2A)
